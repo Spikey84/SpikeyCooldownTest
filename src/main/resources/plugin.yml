@@ -1,0 +1,10 @@
+main: me.spikey.spikeycooldowntest.Main
+name: SpikeyCooldownTest
+version: 1.0
+api-version: 1.13
+
+depend: [SpikeyCooldownAPI]
+
+commands:
+  test:
+  another:
